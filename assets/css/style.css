@@ -1,4 +1,4 @@
-/* general style */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -27,8 +27,6 @@ p {
     float: right;
     margin-left: 25px;
 }
-
-/* header and navigation section style */
 
 header {
     padding: 20px;
@@ -63,8 +61,6 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* star style */
-
 .star {
     height: 800px;
     width: 100%;
@@ -73,8 +69,6 @@ header nav ul li {
     background-size: cover;
     background-position: center;
 }
-
-/* main content style */
 
 main {
     width: 75%;
@@ -100,8 +94,6 @@ main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-/* "what's in it for you" section style */
 
 aside {
     margin-right: 20px;
@@ -129,8 +121,6 @@ aside img {
     margin: 10px auto;
     max-width: 134px;
 }
-
-/* footer style */
 
 footer {
     padding: 30px;
