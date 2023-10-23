@@ -9,6 +9,7 @@ This project focuses on enhancing the SEO of the website as well as ensuring tha
 * [Changes Made](#changes-made)
 * [HTML Modifications](#html-modifications)
 * [How to Use](#how-to-use)
+* [Mock up](#mock-up)
 * [Contributing](#contributing)
 * [License](#license)
 
@@ -37,6 +38,10 @@ In this project, I focused on improving the structure, semantics, and accessibil
 
 6. **Class Refactoring:**
    - Changed the width of the side section so it matches with the rest
+
+## Mock up  
+
+![Screenshot](screenshot.png)
 
 ## How to Use
 
