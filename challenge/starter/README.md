@@ -50,4 +50,4 @@ I welcome contributions that can further improve the semantic structure or acces
 
 ## License
 
-This project is licensed under the [License Name] License. For details, please refer to the [LICENSE.md](LICENSE.md) file in the repository.
+-
