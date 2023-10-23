@@ -36,7 +36,7 @@ In this project, I focused on improving the structure, semantics, and accessibil
    - Consolidated repeated class names to enhance maintainability and consistency in styling.
 
 6. **Class Refactoring:**
-   - Changed the wigth of the side section so it matches with the rest
+   - Changed the width of the side section so it matches with the rest
 
 ## How to Use
 
